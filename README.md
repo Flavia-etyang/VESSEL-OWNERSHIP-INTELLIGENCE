@@ -129,11 +129,12 @@ A vessel is assessed as a network of relationships rather than a single ownershi
 The same company may perform more than one role.
 
 For example:
-
+```text
 ONE COMPANY
     ├── Registered Owner
     ├── Technical Manager
     └── ISM Company
+```
 
 Each role is nevertheless assessed independently.
 
@@ -206,7 +207,7 @@ Depending on the case, the analysis may examine:
 
 The assessment separates:
 
-| Stage |  | Analytical Question |
+| **Stage** | **Analytical Question** |
 |---|---|---|
 | **Observation** | What relationship or change is documented? | 
 | **Identification** | Which entity is involved? | 
