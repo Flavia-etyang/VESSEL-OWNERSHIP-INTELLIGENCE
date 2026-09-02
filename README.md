@@ -207,14 +207,14 @@ Depending on the case, the analysis may examine:
 
 The assessment separates:
 
-| **Stage** | **Analytical Question** |
-|---|---|---|
-| **Observation** | What relationship or change is documented? | 
-| **Identification** | Which entity is involved? | 
-| **Attribution** | What role does the entity perform? | 
-| **Reconstruction** | During which period was the relationship active? | 
-| **Assessment** | What does the relationship or change mean? | 
-| **Confidence** | How strongly is the assessment supported? | 
+| Stage | Analytical Question |
+|---|---|
+| **Observation** | What relationship or change is documented? |
+| **Identification** | Which entity is involved? |
+| **Attribution** | What role does the entity perform? |
+| **Reconstruction** | During which period was the relationship active? |
+| **Assessment** | What does the relationship or change mean? |
+| **Confidence** | How strongly is the assessment supported? |
 
 > **Association alone is not treated as proof of responsibility, control or risk. The relationship, role and relevant time period must first be established.**
 
@@ -227,6 +227,11 @@ Confidence reflects the strength of the evidence supporting both:
 1. The vessel–entity relationship
 2. The resulting intelligence assessment
 
+| Level | Intelligence Assessment |
+|---|---|
+| **HIGH** | The relationship is supported by multiple reliable and independent sources with consistent entity and temporal information. |
+| **MEDIUM** | The relationship is plausible and supported by available evidence, but one or more elements remain incomplete, indirect or unresolved. |
+| **LOW** | The available evidence is limited, conflicting or insufficient to establish the relationship or assessment reliably. |
 
 
 ## Confidence Factors
