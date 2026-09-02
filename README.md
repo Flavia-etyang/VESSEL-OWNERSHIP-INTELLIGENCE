@@ -206,14 +206,90 @@ Depending on the case, the analysis may examine:
 
 The assessment separates:
 
-| **Stage** | **Analytical Question** |
+| Stage |  | Analytical Question |
 |---|---|---|
-| **Observation** | What relationship or change is documented? |
-| **Identification** | Which entity is involved? |
-| **Attribution** | What role does the entity perform? |
-| **Reconstruction** | During which period was the relationship active? |
-| **Assessment** | What does the relationship or change mean? |
+| **Observation** | What relationship or change is documented? | 
+| **Identification** | Which entity is involved? | 
+| **Attribution** | What role does the entity perform? | 
+| **Reconstruction** | During which period was the relationship active? | 
+| **Assessment** | What does the relationship or change mean? | 
 | **Confidence** | How strongly is the assessment supported? | 
 
 > **Association alone is not treated as proof of responsibility, control or risk. The relationship, role and relevant time period must first be established.**
+
+---
+
+# 06 — Confidence
+
+Confidence reflects the strength of the evidence supporting both:
+
+1. The vessel–entity relationship
+2. The resulting intelligence assessment
+
+
+
+## Confidence Factors
+
+Confidence is assessed using factors including:
+
+- Source reliability
+- Source independence
+- Entity-resolution certainty
+- Consistency between records
+- Temporal accuracy
+- Corporate transparency
+- Completeness of the ownership record
+- Availability of corroborating information
+- Directness of the vessel–entity relationship
+- Presence of unresolved contradictions or information gaps
+
+> **Confidence reflects the strength of the evidence and the quality of the relationship attribution — not the certainty of the analyst.**
+
+---
+
+# 07 — Intelligence Assessment
+
+Each vessel is ultimately represented as a structured intelligence assessment:
+
+```text
+VESSEL
+   ↓
+DOCUMENTED RECORDS
+   ↓
+ENTITY IDENTIFICATION
+   ↓
+ROLE ATTRIBUTION
+   ↓
+TEMPORAL RECONSTRUCTION
+   ↓
+RELATIONSHIP ANALYSIS
+   ↓
+INTELLIGENCE ASSESSMENT
+   ↓
+CONFIDENCE
+```
+
+The final assessment distinguishes between:
+
+**Documented relationships**
+Relationships directly supported by available evidence.
+
+**Attributed roles**
+The specific capacity in which an identified entity is connected to the vessel.
+
+**Historical relationships**
+Relationships supported for a defined period but not necessarily current.
+
+**Inference**
+Analytical conclusions drawn from the available evidence.
+
+**Unresolved gaps**
+Relationships or information that cannot be established with sufficient
+confidence.
+
+**Confidence**
+The strength of the evidence supporting the final assessment.
+
+> **A vessel ownership assessment should establish relationships before assigning intelligence significance to them.**
+
 
