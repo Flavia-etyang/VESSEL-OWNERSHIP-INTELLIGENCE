@@ -298,4 +298,69 @@ The strength of the evidence supporting the final assessment.
 
 > **A vessel ownership assessment should establish relationships before assigning intelligence significance to them.**
 
+---
 
+# Case Study — Ownership & Management Transition
+
+## M.V. SSL Gujarat
+
+**IMO:** `9137533`  
+**Vessel Type:** Container Vessel  
+**Assessment Period:** `2022–2026`
+
+### Intelligence Question
+
+**How did the vessel's ownership and management structure change during the assessment period, and which relationships remained continuous?**
+
+---
+
+## Management Structure Analysis
+
+The vessel's historical management records show that its wider ownership and management structure did not transition as a single event.
+
+Several roles changed during the assessment period, while other operational and management relationships remained continuous.
+
+| Management Area | Assessment |
+|---|---|
+| **Ownership** | Changed during the assessment period |
+| **Operational Management** | Changes identified |
+| **Technical Management** | Assessed for continuity or transition |
+| **ISM / Safety Management** | Assessed independently |
+| **Commercial Relationships** | Changes assessed where documented |
+| **Other Management Roles** | Historical changes reconstructed from available records |
+
+The analysis treats each role independently rather than assuming that a change in ownership resulted in a complete replacement of the vessel's management structure.
+
+---
+
+## Key Relationship Timeline
+
+```text
+2022
+│
+│  Baseline ownership and management structure established
+│
+▼
+TRANSITION PERIOD
+│
+├── Selected ownership relationships changed
+├── Multiple management roles transitioned
+└── Other relationships remained continuous
+│
+▼
+2026
+│
+└── Latest documented management structure established
+```
+---
+
+## Intelligence Assessment
+
+> **The available management history indicates a partial transition across the vessel's ownership and wider management structure, rather than a complete replacement of all associated entities.**
+>
+> Several relationships changed during the assessment period, while other roles demonstrated continuity. This illustrates why vessel ownership intelligence requires individual relationships to be assessed by role
+> and time period, rather than treating a vessel's management structure as a single ownership record.
+
+**Assessment:** Partial ownership and management transition
+**Key analytical** finding: Change and continuity occurred simultaneously
+**Confidence:** HIGH, subject to the completeness and reliability of the available historical records
