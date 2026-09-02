@@ -101,6 +101,7 @@ Each identified entity is then attributed to the role it performs in relation to
 
 A vessel is assessed as a network of relationships rather than a single ownership record.
 
+```text
                          VESSEL
                            │
         ┌──────────────────┼──────────────────┐
@@ -110,7 +111,7 @@ A vessel is assessed as a network of relationships rather than a single ownershi
  Beneficial Owner    Technical Manager     Charterer
  Registered Owner    ISM Company            Commercial Manager
                     Operator
-
+```
 ---
 
 ## Seven-Role Attribution Framework
@@ -150,6 +151,7 @@ When was each relationship active, and what changed?
 
 The vessel's ownership and management structure is reconstructed across time.
 
+```text
 PAST
  │
  │  Owner A
@@ -165,6 +167,7 @@ PRESENT
  │  Flag B
  ▼
 ASSESSMENT
+```
 
 The analysis examines:
 
