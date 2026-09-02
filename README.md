@@ -364,3 +364,9 @@ TRANSITION PERIOD
 **Assessment:** Partial ownership and management transition
 **Key analytical** finding: Change and continuity occurred simultaneously
 **Confidence:** HIGH, subject to the completeness and reliability of the available historical records
+
+| Ownership |               | Changed |
+| Technical Management  |   | Continuous |
+| ISM Management |         | Changed |
+| Operator |                  | Changed |
+| Commercial Relationship |   | Continuous |
