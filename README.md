@@ -317,11 +317,13 @@ TRANSITION PERIOD
 └── Latest documented management structure established
 ```
 
+
 | **Ownership** | Changed |
 | **Technical Management** | Continuous |
 | **ISM Management** | Changed |
 | **Operator** | Changed |
 | **Commercial Relationship** | Continuous |
+
 
 ---
 
