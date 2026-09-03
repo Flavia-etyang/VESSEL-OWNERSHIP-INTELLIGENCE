@@ -253,53 +253,6 @@ Confidence is assessed using factors including:
 
 ---
 
-# 07 — Intelligence Assessment
-
-Each vessel is ultimately represented as a structured intelligence assessment:
-
-```text
-VESSEL
-   ↓
-DOCUMENTED RECORDS
-   ↓
-ENTITY IDENTIFICATION
-   ↓
-ROLE ATTRIBUTION
-   ↓
-TEMPORAL RECONSTRUCTION
-   ↓
-RELATIONSHIP ANALYSIS
-   ↓
-INTELLIGENCE ASSESSMENT
-   ↓
-CONFIDENCE
-```
-
-The final assessment distinguishes between:
-
-**Documented relationships**
-Relationships directly supported by available evidence.
-
-**Attributed roles**
-The specific capacity in which an identified entity is connected to the vessel.
-
-**Historical relationships**
-Relationships supported for a defined period but not necessarily current.
-
-**Inference**
-Analytical conclusions drawn from the available evidence.
-
-**Unresolved gaps**
-Relationships or information that cannot be established with sufficient
-confidence.
-
-**Confidence**
-The strength of the evidence supporting the final assessment.
-
-> **A vessel ownership assessment should establish relationships before assigning intelligence significance to them.**
-
----
-
 # Case Study — Ownership & Management Transition
 
 ## M.V. SSL Gujarat
@@ -318,6 +271,15 @@ The strength of the evidence supporting the final assessment.
 
 The vessel's historical management records show that its wider ownership and management structure did not transition as a single event.
 
+| **Role** | **Entities before the change** | | **Entities after the change** |
+|---|---|
+| **Beneficial Owner** | Transworld Group | DP World FZE |
+| **Registered Owner** | Transworld Shipping Lines Ltd | Avana Logistek Ltd |
+| **Technical Management** | Transworld Fleet Mgmt India | TW Ship Management Pvt Ltd |
+| **ISM / Safety Management** | Transworld Fleet Mgmt India | TW Ship Management Pvt Ltd |
+| **Commercial Management** | Transworld Fleet Mgmt India | Avana Logistek Ltd |
+| **Operator** | Orient Express Lines Inc | Avana Logistek Ltd |
+
 Several roles changed during the assessment period, while other operational and management relationships remained continuous.
 
 | Management Area | Assessment |
@@ -327,7 +289,6 @@ Several roles changed during the assessment period, while other operational and 
 | **Technical Management** | Assessed for continuity or transition |
 | **ISM / Safety Management** | Assessed independently |
 | **Commercial Relationships** | Changes assessed where documented |
-| **Other Management Roles** | Historical changes reconstructed from available records |
 
 The analysis treats each role independently rather than assuming that a change in ownership resulted in a complete replacement of the vessel's management structure.
 
@@ -352,6 +313,13 @@ TRANSITION PERIOD
 │
 └── Latest documented management structure established
 ```
+
+| **Ownership** | Changed |
+| **Technical Management** | Continuous |
+| **ISM Management** | Changed |
+| **Operator** | Changed |
+| **Commercial Relationship** | Continuous |
+
 ---
 
 ## Intelligence Assessment
@@ -365,8 +333,3 @@ TRANSITION PERIOD
 **Key analytical** finding: Change and continuity occurred simultaneously
 **Confidence:** HIGH, subject to the completeness and reliability of the available historical records
 
-| Ownership |               | Changed |
-| Technical Management  |   | Continuous |
-| ISM Management |         | Changed |
-| Operator |                  | Changed |
-| Commercial Relationship |   | Continuous |
