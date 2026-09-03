@@ -336,7 +336,10 @@ TRANSITION PERIOD
 > Several relationships changed during the assessment period, while other roles demonstrated continuity. This illustrates why vessel ownership intelligence requires individual relationships to be assessed by role
 > and time period, rather than treating a vessel's management structure as a single ownership record.
 
+
 **Assessment:** Partial ownership and management transition
+
 **Key analytical** finding: Change and continuity occurred simultaneously
+
 **Confidence:** HIGH, subject to the completeness and reliability of the available historical records
 
