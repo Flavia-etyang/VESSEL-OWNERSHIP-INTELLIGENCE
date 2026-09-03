@@ -271,15 +271,15 @@ Confidence is assessed using factors including:
 
 The vessel's historical management records show that its wider ownership and management structure did not transition as a single event.
 
-
 | Role | Entities before the change | Entities after the change |
-|---|---|
+|---|---|---|
 | **Beneficial Owner** | Transworld Group | DP World FZE |
 | **Registered Owner** | Transworld Shipping Lines Ltd | Avana Logistek Ltd |
 | **Technical Management** | Transworld Fleet Mgmt India | TW Ship Management Pvt Ltd |
-| **ISM / Safety Management** | Transworld Fleet Mgmt India | TW Ship Management Pvt Ltd |
-| **Commercial Management** | Transworld Fleet Mgmt India | Avana Logistek Ltd |
+| **ISM Company** | Transworld Fleet Mgmt India | TW Ship Management Pvt Ltd |
+| **Commercial Manager** | Transworld Fleet Mgmt India | Avana Logistek Ltd |
 | **Operator** | Orient Express Lines Inc | Avana Logistek Ltd |
+
 
 Several roles changed during the assessment period, while other operational and management relationships remained continuous.
 
