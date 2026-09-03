@@ -299,6 +299,7 @@ The analysis treats each role independently rather than assuming that a change i
 
 ## Key Relationship Timeline
 
+
 ```text
 2022
 │
@@ -315,6 +316,7 @@ TRANSITION PERIOD
 2026
 │
 └── Latest documented management structure established
+
 ```
 
 
