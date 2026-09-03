@@ -271,6 +271,7 @@ Confidence is assessed using factors including:
 
 The vessel's historical management records show that its wider ownership and management structure did not transition as a single event.
 
+
 | **Role** | **Entities before the change** | | **Entities after the change** |
 |---|---|
 | **Beneficial Owner** | Transworld Group | DP World FZE |
