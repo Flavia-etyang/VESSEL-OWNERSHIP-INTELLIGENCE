@@ -46,10 +46,14 @@ Ship-Tracker separately records:
 - Technical Manager: **Transworld Fleet Management**
 - Commercial Manager: **Transworld Shipping India.**
 
+---
+
 ### 02 — Identification
 The vessel was anchored to IMO 9137533, which provides the persistent identity reference across the different maritime records.
 
 This is important because company names and operational identifiers may vary between databases, while the IMO number provides the primary vessel-level linkage.
+
+---
 
 ### 03 — Correlation
 
@@ -67,6 +71,8 @@ Ship-Tracker records a 2014 sale from SeaChange Maritime LLC to Transworld Shipp
 
 Current/public records subsequently associate the vessel with Transworld-related entities across several operational and management functions.
 
+---
+
 ### 04 — Contradictions / Gaps
 
 The sources do not provide a fully consistent historical timeline for every role.
@@ -80,11 +86,15 @@ A company appearing in an operational or management field does not automatically
 
 These gaps prevent a definitive reconstruction of every relationship throughout the vessel's full lifecycle.
 
+---
+
 ### 05 — Assessment
 
 The evidence supports the conclusion that SSL GUJARAT has been associated with a network of Transworld-related ownership, operational and management entities, with the exact capacity of each entity varying by source and reporting period.
 
 The strongest public evidence supports the registered-owner and management relationships currently recorded, while some beneficial-ownership and historical-role relationships remain medium-confidence or unresolved.
+
+---
 
 ### 06 — Confidence
 
