@@ -2,12 +2,12 @@
    
 ## CASE 03 — SSL GUJARAT — OWNERSHIP & MANAGEMENT RECONSTRUCTION
 
+</div>
+
 - **IMO:** 9137533
 - **Investigation Type:** Ownership & Management Reconstruction
 - **Assessment Period:** 2014–2026
 - **Confidence:** MEDIUM
-
-</div>
 
 ---
 
@@ -38,7 +38,8 @@ MagicPort currently identifies:
 - Registered Owner: **Transworld Shipping Lines Ltd**
 - ISM Manager: **TW Ship Management Pvt Ltd**
 - Commercial Manager: **Transworld Fleet Mgmt India.**
-- Ship-Tracker separately records:
+  
+Ship-Tracker separately records:
 
 - Beneficial Owner: **Transworld Group**
 - Operator: **Transworld Shipping India**
